@@ -168,9 +168,9 @@ hoek@2.x.x:
   version "2.16.3"
   resolved "https://registry.yarnpkg.com/hoek/-/hoek-2.16.3.tgz#20bb7403d3cea398e91dc4710a8ff1b8274a25ed"
 
-http-proxy-simple@^0.9.5:
+http-proxy-simple@vramdal/node-http-proxy-simple:
   version "0.9.5"
-  resolved "https://registry.yarnpkg.com/http-proxy-simple/-/http-proxy-simple-0.9.5.tgz#a18073b895e8e9eec6a0d0f997304544e09d2e2a"
+  resolved "https://codeload.github.com/vramdal/node-http-proxy-simple/tar.gz/7ec938d9d848405ae0ed8ca824dfe3dba5832b64"
   dependencies:
     request "~2.67.0"
 

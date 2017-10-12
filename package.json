@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/vramdal/opaque-redirect-proxy#readme",
   "dependencies": {
-    "http-proxy-simple": "^0.9.5"
+    "http-proxy-simple": "vramdal/node-http-proxy-simple"
   }
 }

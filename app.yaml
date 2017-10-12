@@ -11,4 +11,7 @@
 # [START runtime]
 runtime: nodejs
 env: flex
+
+env_variables:
+  TARGET: 'https://script.google.com/macros/s/AKfycbxa2NHyfgpVcsNmwekarvjeN3lIUpH4vn6jKppZMXzK-o8pinvb/exec'
 # [END runtime]
